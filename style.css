@@ -76,3 +76,5 @@ button {
     border: none; /* Remove border */
     padding: 10px 20px; /* Padding for button */
     border-radius: 5px; /* Rounded corners for button */
+    cursor: pointer; /* Pointer cursor on hover */
+}

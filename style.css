@@ -30,3 +30,5 @@ nav ul li {
 }
 nav ul li a {
     color: #ffcc00; /* Gold color for links */
+    text-decoration: none; /* Remove underline from links */
+}

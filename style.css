@@ -78,3 +78,7 @@ button {
     border-radius: 5px; /* Rounded corners for button */
     cursor: pointer; /* Pointer cursor on hover */
 }
+
+button:hover {
+    background-color: #ffd700; /* Slightly darker gold on hover */
+}

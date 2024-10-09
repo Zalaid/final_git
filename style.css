@@ -13,3 +13,6 @@ body {
 header {
     background: #333; /* Darker header background */
     color: #fff; /* White text color */
+    padding: 20px 0; /* Padding around the header */
+    text-align: center; /* Centered text */
+}

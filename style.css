@@ -51,3 +51,5 @@ main {
 /* Styling for the content inside the about section */
 .about-content {  max-width: 500px; /* Limit width of text content */
 }
+.profile-photo {
+    width: 400px; /* Fixed width for profile photo */

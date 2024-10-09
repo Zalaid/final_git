@@ -37,3 +37,7 @@ nav ul li a {
 main {
     padding: 20px;
 }
+
+* About section styling */
+.about {
+    display: flex; /* Use flexbox for layout */

@@ -21,3 +21,5 @@ header {
 /* Navigation styling */
 nav ul {
     list-style: none; /* Remove default list styling */
+    padding: 0; /* Remove padding */
+}

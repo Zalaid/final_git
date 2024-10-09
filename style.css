@@ -57,3 +57,8 @@ main {
     /* Circular photo */
     margin-left: 20px; /* Space between text and photo */
 }
+
+/* Footer styling */
+footer {
+    background: #333; /* Same as header */
+    color: #fff; /* White text color */

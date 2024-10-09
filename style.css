@@ -64,3 +64,4 @@ footer {
     color: #fff; /* White text color */
     text-align: center; /* Centered text */
     padding: 20px 0; /* Padding for footer 
+    position: relative; /* Ensure footer is positioned correctly */

@@ -47,3 +47,6 @@ main {
     border-radius: 10px; /* Rounded corners */
     padding: 20px; /* Padding inside the about section */
 }
+
+/* Styling for the content inside the about section */
+.about-content {

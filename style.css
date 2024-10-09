@@ -53,3 +53,5 @@ main {
 }
 .profile-photo {
     width: 400px; /* Fixed width for profile photo */
+    height: 400px; /* Maintain aspect ratio */
+    /* Circular photo */

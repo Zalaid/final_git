@@ -67,3 +67,8 @@ footer {
     position: relative; /* Ensure footer is positioned correctly */
     bottom: 0; /* Align footer to the bottom */
     width: 100%; /* Full width */
+
+}
+/* Button styling */
+button {
+    background-color: #ffcc00; /* Gold color for the button */

@@ -15,4 +15,9 @@ header {
     color: #fff; /* White text color */
     padding: 20px 0; /* Padding around the header */
     text-align: center; /* Centered text */
+
 }
+
+/* Navigation styling */
+nav ul {
+    list-style: none; /* Remove default list styling */

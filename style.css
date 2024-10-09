@@ -26,3 +26,5 @@ nav ul {
 
 nav ul li {
     display: inline; /* Inline list items */
+    margin: 0 15px; /* Space between list items */
+}

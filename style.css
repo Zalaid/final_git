@@ -41,3 +41,4 @@ main {
 * About section styling */
 .about {
     display: flex; /* Use flexbox for layout */
+    align-items: center; /* Center items vertically */

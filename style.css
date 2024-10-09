@@ -72,3 +72,5 @@ footer {
 /* Button styling */
 button {
     background-color: #ffcc00; /* Gold color for the button */
+    color: #333; /* Dark text color */
+    border: none; /* Remove border */

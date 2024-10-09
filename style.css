@@ -6,3 +6,10 @@ body {
     background-color: #1a1a1a; /* Dark background color */
     color: #ffffff; /* White text color */
 }
+
+
+
+/* Header styling */
+header {
+    background: #333; /* Darker header background */
+    color: #fff; /* White text color */

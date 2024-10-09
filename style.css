@@ -55,3 +55,5 @@ main {
     width: 400px; /* Fixed width for profile photo */
     height: 400px; /* Maintain aspect ratio */
     /* Circular photo */
+    margin-left: 20px; /* Space between text and photo */
+}
